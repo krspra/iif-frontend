@@ -1,1 +1,1 @@
-export const USER_API_END_POINT="https://iif-backend.vercel.app/api/user"
+export const USER_API_END_POINT="https://iif-backend.onrender.com/api/user"
